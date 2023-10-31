@@ -73,6 +73,12 @@ body .top-body div {
 
 }
 
+.center-body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
 body .top-body .left {
 
     height: auto;
